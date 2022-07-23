@@ -1,4 +1,7 @@
-.CENTERDIV{
-    background-color: green;
-    padding-left: 150px;
+img{
+    float: right;
+    
+}
+.row{
+    padding-left: 200px;
 }
